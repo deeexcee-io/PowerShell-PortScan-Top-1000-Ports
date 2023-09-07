@@ -21,5 +21,11 @@ Now Scanning 172.16.51.4
 80 is Open
 ```
 
+## One-Liner
+
+If you have access to Powershell then just dump the script in and it will chug away
+
+![image](https://github.com/deeexcee-io/PowerShell-PortScan-Top-1000-Ports/assets/130473605/8bd0c556-2488-4fe9-b60d-e48fdb6e0161)
+
 
 
